@@ -1,4 +1,5 @@
-﻿public class Addition
+﻿// Esta clase implementa la operación adicion
+public class Addition
 {
     public static int Add(int a, int b)
     {
